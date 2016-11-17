@@ -1,0 +1,3 @@
+#define IntrospectionDemo_SIZEOF_LONG @IntrospectionDemo_SIZEOF_LONG@
+
+#cmakedefine IntrospectionDemo_DOUBLE_CORRECTION_NEEDED
